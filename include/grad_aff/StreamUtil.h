@@ -11,6 +11,7 @@
 #include <chrono>
 #include <array>
 #include <type_traits>
+#include <memory.h>
 
 namespace grad_aff {
 

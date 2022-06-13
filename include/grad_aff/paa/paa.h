@@ -7,7 +7,7 @@
 #include "../grad_aff.h"
 #include "../StreamUtil.h"
 
-#include "MipMap.h"
+#include "mipmap.h"
 #include "Tagg.h"
 #include "Palette.h"
 

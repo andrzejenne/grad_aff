@@ -1,4 +1,4 @@
-#include "grad_aff/paa/Paa.h"
+#include "grad_aff/paa/paa.h"
 
 #include <squish.h>
 #include <lzo/lzo1x.h>

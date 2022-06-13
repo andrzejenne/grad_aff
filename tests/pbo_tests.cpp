@@ -2,7 +2,7 @@
 
 #include <catch2/catch.hpp>
 
-#include "grad_aff/pbo/pbo.h"
+#include "grad_aff/pbo/Pbo.h"
 
 TEST_CASE("empty pbo read", "[empty-read-pbo]") {
     grad_aff::Pbo testPbo("");
